@@ -62,6 +62,11 @@ Answer + Citations
 
 ```
 
+## 📐 Architecture
+
+See the full system design here:  
+➡️ [ARCHITECTURE.md](./ARCHITECTURE.md)
+
 ---
 
 ## 🧩 Components
