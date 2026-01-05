@@ -1,6 +1,3 @@
-
-
-```markdown
 # On-Prem Secure RAG Lab (Context-Controlled)
 
 This lab demonstrates a **production-grade, on-prem Retrieval-Augmented Generation (RAG)** system designed to safely answer questions from **PDF manuals** under **strict constraints**.
