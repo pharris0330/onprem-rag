@@ -1,0 +1,25 @@
+# secrets
+.env
+.env.*
+secrets/
+*.pem
+*.key
+*.pfx
+*.crt
+
+# local data / indexes (RAG labs)
+data/
+storage/
+index/
+chroma/
+chromadb/
+faiss/
+*.sqlite
+*.db
+
+# misc
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
